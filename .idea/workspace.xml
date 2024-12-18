@@ -6,16 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="53734b2d-02fd-4421-994d-a25d3c8dda3b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/user/registration/UserRegistrationApplicationStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/user/registration/UserRegistrationApplicationStarter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/user/registration/controller/UserRegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/user/registration/controller/UserRegistrationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/user/registration/entity/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/user/registration/entity/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/user/registration/entity/Notifications.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/user/registration/entity/Notifications.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/user/registration/entity/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/user/registration/entity/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/user/registration/repository/ContactRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/user/registration/repository/ContactRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/user/registration/repository/UsersRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/user/registration/repository/UsersRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/sql/queries_ddl.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sql/queries_ddl.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +80,13 @@
         <item itemvalue="Application.UserRegistrationApplicationStarter" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
